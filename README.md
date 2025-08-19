@@ -1,2 +1,18 @@
-# Layoffs-Data-Analysis-SQL-Workbench
-SQL project analyzing global layoffs dataset. Performed data cleaning, EDA, and trend analysis using joins, CTEs, subqueries, CASE, and window functions (rolling avg, ranking). Extracted insights on companies, industries, and year-over-year layoff patterns.
+# Layoffs Data Analysis  
+
+This project explores global layoffs data from Kaggle using SQL and Python.  
+The analysis covers data cleaning, exploratory data analysis (EDA), and insights into industry trends, companies affected, and layoff patterns over time.  
+
+## Tools & Technologies  
+- SQL (MySQL Workbench)  
+- Python (Pandas, Matplotlib, Seaborn)  
+- Jupyter Notebook  
+
+## Key Highlights  
+- Data cleaning and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Joins, aggregations, and rolling averages in SQL  
+- Visualization of layoff trends by company, industry, and year  
+
+## Results  
+Identified top industries and companies impacted, year-wise layoff patterns, and overall workforce trends.
