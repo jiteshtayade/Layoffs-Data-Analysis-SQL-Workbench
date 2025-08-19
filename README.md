@@ -1,12 +1,10 @@
 # Layoffs Data Analysis  
 
-This project explores global layoffs data from Kaggle using SQL and Python.  
+This project explores global layoffs data from Kaggle using SQL.  
 The analysis covers data cleaning, exploratory data analysis (EDA), and insights into industry trends, companies affected, and layoff patterns over time.  
 
 ## Tools & Technologies  
 - SQL (MySQL Workbench)  
-- Python (Pandas, Matplotlib, Seaborn)  
-- Jupyter Notebook  
 
 ## Key Highlights  
 - Data cleaning and preprocessing  
